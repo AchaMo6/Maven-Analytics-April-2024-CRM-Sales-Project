@@ -23,6 +23,7 @@ This project original dataset is an extract from Maven Analytics Sales Challenge
 -Regional Office
 
 ## KEY FINDINGS
-![]("C:\Users\Elite\OneDrive\Desktop\Pictures\Screenshots\Moses Acha April Sales Analysis Challenge.png")
+![](https://1drv.ms/i/c/943002cb000b2b28/ESRyNzGRsohNmNAmqpl57AIBwJujnhV-H6O029Ad8mlH6w?e=dax3WT)
+
 
 ## RECOMMENDATIONS
